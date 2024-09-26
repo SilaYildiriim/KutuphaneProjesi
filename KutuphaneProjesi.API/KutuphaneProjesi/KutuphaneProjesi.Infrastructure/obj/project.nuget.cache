@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PMFGhcVLx34kplSIk2QaDePAf0c4NZ4VzQY3GVTv6jmnoZEn2BPyqhsTLnbQxhiP16GEFRlwDSCkk2bmY9qL9Q==",
+  "dgSpecHash": "Q7KzNcp6INmNLFwO3EM9INFuPmEPGx6AWjYFGqJWjepFKzp5F4pYv3fDVWdNn0JpUso6iIg8Ljua7bLmzM5Wgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Infrastructure\\KutuphaneProjesi.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Infrastructure\\KutuphaneProjesi.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SILA\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SILA\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

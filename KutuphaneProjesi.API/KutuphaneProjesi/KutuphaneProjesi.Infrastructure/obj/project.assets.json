@@ -9216,11 +9216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Infrastructure\\KutuphaneProjesi.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Infrastructure\\KutuphaneProjesi.Infrastructure.csproj",
       "projectName": "KutuphaneProjesi.Infrastructure",
-      "projectPath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Infrastructure\\KutuphaneProjesi.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Infrastructure\\KutuphaneProjesi.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\SILA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SILA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9237,8 +9237,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj": {
-              "projectPath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj"
+            "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj": {
+              "projectPath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj"
             }
           }
         }

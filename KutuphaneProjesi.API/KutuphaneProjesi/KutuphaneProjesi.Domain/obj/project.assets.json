@@ -773,11 +773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj",
       "projectName": "KutuphaneProjesi.Domain",
-      "projectPath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj",
+      "projectPath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj",
       "packagesPath": "C:\\Users\\SILA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\obj\\",
+      "outputPath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SILA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14924,11 +14924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi.API.csproj",
+      "projectUniqueName": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi.API.csproj",
       "projectName": "KutuphaneProjesi.API",
-      "projectPath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi.API.csproj",
+      "projectPath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi.API.csproj",
       "packagesPath": "C:\\Users\\SILA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.API\\obj\\",
+      "outputPath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SILA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -14945,8 +14945,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Application\\KutuphaneProjesi.Application.csproj": {
-              "projectPath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Application\\KutuphaneProjesi.Application.csproj"
+            "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Application\\KutuphaneProjesi.Application.csproj": {
+              "projectPath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Application\\KutuphaneProjesi.Application.csproj"
             }
           }
         }

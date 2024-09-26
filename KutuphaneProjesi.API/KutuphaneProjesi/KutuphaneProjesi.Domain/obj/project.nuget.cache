@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MEXt3aCY7alvzJ5Zod5CfwnIRAzOJebdPdJbMmU0rYMM8ANOlRTVO8y/0fuaksJlP+mb//Ph0VH68Hi5cCVqlg==",
+  "dgSpecHash": "WgX8I1HS/S58a1We4JZ/govtalzaFUTcUhwcckO7+hz1j/Bku3MUCxilzJXcmmd7xGvSOZcX1Q6DyvGv7xAViA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj",
+  "projectFilePath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.Domain\\KutuphaneProjesi.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SILA\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.20\\microsoft.aspnetcore.cryptography.internal.7.0.20.nupkg.sha512",
     "C:\\Users\\SILA\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.20\\microsoft.aspnetcore.cryptography.keyderivation.7.0.20.nupkg.sha512",

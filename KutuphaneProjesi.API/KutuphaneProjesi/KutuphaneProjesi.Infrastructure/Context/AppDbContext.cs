@@ -21,7 +21,7 @@ namespace KutuphaneProjesi.Infrastructure.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-G2S16HQ;Database=KutuphaneProjesiDB;Uid=sa;Pwd=123; TrustServerCertificate = True;");
+            optionsBuilder.UseSqlServer("Server=YourServer;Database=KutuphaneProjesiDB;Uid=YourUserName;Pwd=YourPassword; TrustServerCertificate = True;");
         }
 
         public DbSet<User> Users { get; set; }

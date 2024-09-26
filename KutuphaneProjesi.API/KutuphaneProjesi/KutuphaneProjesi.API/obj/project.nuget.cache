@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EsHLZxpwFV+g1QGDlqLmcVtVzInnyW14kQgZfaBKR/sLbc3wLnBoGuIxkYOlXlv+UlOaQO0Z55SINh6BxvmQ/w==",
+  "dgSpecHash": "YW6/IzeTH1KQGzpulmoRIEU9Nqt/QyT0b5dubwY/PLwKkWXaLWRGrhVrTHJuj0qaY9WB+OlQp4hXm+HBgmXSlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SILA\\Desktop\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi.API.csproj",
+  "projectFilePath": "C:\\Users\\SILA\\Desktop\\Yeni klasör\\KutuphaneProjesi.API\\KutuphaneProjesi\\KutuphaneProjesi.API\\KutuphaneProjesi.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SILA\\.nuget\\packages\\autofac\\8.1.0\\autofac.8.1.0.nupkg.sha512",
     "C:\\Users\\SILA\\.nuget\\packages\\autofac.extensions.dependencyinjection\\10.0.0\\autofac.extensions.dependencyinjection.10.0.0.nupkg.sha512",

@@ -33,7 +33,7 @@ namespace KutuphaneProjesi.API
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowReactApp",
-                    builder => builder.WithOrigins("http://localhost:5173")
+                    builder => builder.WithOrigins("YourReactLocalhost")
                                       .AllowAnyMethod()
                                       .AllowAnyHeader()
                                       .AllowCredentials());
