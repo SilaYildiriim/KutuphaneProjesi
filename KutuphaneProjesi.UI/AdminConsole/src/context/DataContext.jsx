@@ -54,7 +54,9 @@ export const DataContextProvider = ({ children }) => {
       setBooks((prev) => [...prev, addedBook]);
       toast.success("Book added successfully!");
     } catch (error) {
-      toast.error("Failed to add book: " + error.message);
+      toast.error(
+        "Failed to add book! Please check the file format and try again."
+      );
     } finally {
       setIsLoading((prev) => ({ ...prev, add: false }));
     }
@@ -67,7 +69,7 @@ export const DataContextProvider = ({ children }) => {
       setBooks((prev) => prev.filter((deleted) => deleted.id !== id));
       toast.success("Book deleted successfully!");
     } catch (error) {
-      toast.error("Failed to delete book: " + error.message);
+      toast.error("Failed to delete book! Please try again.");
     } finally {
       setIsLoading((prev) => ({
         ...prev,
@@ -92,7 +94,9 @@ export const DataContextProvider = ({ children }) => {
       );
       toast.success("Book updated successfully!");
     } catch (error) {
-      toast.error("Failed to update book: " + error.message);
+      toast.error(
+        "Failed to update book! Please check the entered information."
+      );
     } finally {
       setIsLoading((prev) => ({ ...prev, update: false }));
       setEditBook("");

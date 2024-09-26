@@ -44,7 +44,7 @@ export const DataContextProvider = ({ children }) => {
       console.log(data);
       return data;
     } catch (error) {
-      toast.error("Failed to load book: " + error.message);
+      toast.error("Failed to load book: ");
     } finally {
       setIsLoading((prev) => ({ ...prev, read: false }));
     }

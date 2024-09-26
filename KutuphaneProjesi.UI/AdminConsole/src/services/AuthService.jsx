@@ -2,13 +2,10 @@ import axios from "axios";
 
 export const AuthService = {
   loginService: async (username, password) => {
-    const response = await axios.post(
-      "https://localhost:44310/api/Login/Login",
-      {
-        userName: username,
-        password: password,
-      }
-    );
+    const response = await axios.post("YourBackendApiUrl/api/Login/Login", {
+      userName: username,
+      password: password,
+    });
 
     if (response.data) {
       const token = response.data.token;
@@ -20,9 +17,7 @@ export const AuthService = {
   },
 
   logoutService: async () => {
-    const response = await axios.get(
-      "https://localhost:44310/api/Login/Logout"
-    );
+    const response = await axios.get("YourBackendApiUrl/api/Login/Logout");
     return response;
   },
 };

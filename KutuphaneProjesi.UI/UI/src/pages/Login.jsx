@@ -16,7 +16,7 @@ const Login = () => {
       await login(username, password);
       navigate("/");
     } catch (error) {
-      toast.error(error.message);
+      toast.error("Login failed. Please check your username and password.");
 
       setUsername("");
       setPassword("");
