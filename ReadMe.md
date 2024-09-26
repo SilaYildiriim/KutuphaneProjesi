@@ -55,8 +55,8 @@ Adminler, yeni kitap ekleme, mevcut kitapları güncelleme ve istenmeyen kitapla
 
 ### User
 
-- Giriş: Kullanıcılar sisteme giriş yaparak kütüphane kitaplarını keşfedebilir.
-- Kitap Görüntüleme: Kullanıcılar arama yaparak buldukları kitapların detaylarını görüntüleyebilir.
+- Giriş: Userlar sisteme giriş yaparak kütüphane kitaplarını keşfedebilir.
+- Kitap Görüntüleme: Userlar arama yaparak buldukları kitapların detaylarını görüntüleyebilir.
 - Hata Mesajları: Hatalar durumunda kullanıcı dostu hata mesajları görüntülenmektedir.
 
 ### Admin
@@ -65,7 +65,7 @@ Adminler, yeni kitap ekleme, mevcut kitapları güncelleme ve istenmeyen kitapla
 - Kitap Ekleme: Adminler yeni kitaplar ekleyebilir. Dosya yükleme özelliği bulunmaktadır.
 - Kitap Silme: Adminler mevcut kitapları silebilir.
 - Kitap Güncelleme: Adminler kitap bilgilerini güncelleyebilir.
-- Tüm Kitapları Yönetme: Adminler tüm kitapları görüntüleyebilir ve yönetebilir.
+- Kitap Görüntüleme: Adminler tüm kitapları görüntüleyebilir.
 
 ## Notlar
 
