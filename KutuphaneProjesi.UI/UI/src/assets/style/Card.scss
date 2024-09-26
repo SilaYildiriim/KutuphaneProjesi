@@ -1,0 +1,33 @@
+.card {
+  background-color: #e9dac1;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px 10px 50px 10px;
+  position: relative;
+  margin: auto;
+  margin-top: 80px;
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+  font-size: large;
+  color: #0c2d57;
+  img {
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+    position: relative;
+    margin: 20px 0px 20px 0px;
+    display: block;
+  }
+  .information {
+    width: 30%;
+    height: auto;
+  }
+}
+
+span {
+  margin-right: 12px;
+  color: #0c2d57;
+  font-weight: bold; // Yazı kalınlığını normal yap
+}

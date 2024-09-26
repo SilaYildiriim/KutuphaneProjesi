@@ -1,0 +1,135 @@
+.card {
+  background-color: #e9dac1;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  justify-content: flex-start;
+  align-content: flex-start;
+  border-radius: 10px;
+  img {
+    position: absolute;
+    border-radius: 10px;
+    top: 12px;
+    left: 240px;
+    width: 200px;
+  }
+  button {
+    position: absolute;
+    top: 20px;
+    border-radius: 10px;
+    border: none;
+    letter-spacing: 1px;
+    padding: 5px;
+    margin: 15px 0px 0px 15px;
+    background-color: #79b4b7;
+    color: #0c2d57;
+    &:hover {
+      transform: scale(1.03);
+      color: #fff2d7;
+    }
+  }
+  .delete {
+    left: 15px;
+  }
+  .update {
+    left: 75px;
+  }
+
+  &-body {
+    margin: 20px;
+  }
+  .card-body {
+    margin-top: 110px;
+    h3 {
+      position: absolute;
+      top: 50px;
+      left: 50px;
+      color: #0c2d57;
+    }
+  }
+  &:hover {
+    transform: scale(1.05);
+    z-index: 1;
+    .card-body p {
+      transform: scale(1.03);
+    }
+    .card-body h3 {
+      transform: scale(1.08);
+    }
+  }
+}
+.updateform {
+  display: grid;
+  height: 180px;
+  padding-left: 35px;
+  padding-top: 55px;
+  padding-bottom: 0px;
+  margin: 0;
+  p {
+    font-size: 15px;
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 3px;
+    color: #0c2d57;
+  }
+  input {
+    width: 330px;
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    background-color: #fff9ec;
+    padding-left: 15px;
+  }
+
+  .formUpdate {
+    left: 13px;
+  }
+  .formCancel {
+    left: 77px;
+  }
+}
+
+p {
+  font-size: 16px;
+  color: #0c2d57;
+  margin: 10px 0;
+}
+
+.card {
+  background-color: #e9dac1;
+  width: 400px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  position: relative;
+  padding: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+
+  img {
+    align-self: center;
+    width: 25%;
+    border-radius: 10px;
+    margin: 10px 0px 0px 60px;
+  }
+
+  .card-body {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-top: auto;
+  }
+
+  button {
+    margin-bottom: 10px;
+    align-self: flex-start;
+  }
+
+  p {
+    font-size: 16px;
+    color: #0c2d57;
+    margin: 5px 0;
+  }
+}

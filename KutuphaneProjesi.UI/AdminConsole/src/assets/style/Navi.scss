@@ -1,0 +1,122 @@
+nav {
+  background-color: #79b4b7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 10%;
+  padding-block: 6px;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  position: sticky;
+  top: 0px;
+  z-index: 2;
+  color: #0c2d57;
+  width: auto;
+  ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    button {
+      background: transparent;
+      border: none;
+      padding: 10px 15px;
+      text-transform: uppercase;
+      position: relative;
+      transition: 0.5s ease;
+      cursor: pointer;
+      color: #0c2d57;
+      font-size: 15px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      &::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 2px;
+        width: 0;
+        background-color: #9d9d9d;
+        transition: 0.5s ease;
+      }
+      &:hover {
+        color: #fff2d7;
+        transition-delay: 0.5s;
+        background-color: #9d9d9d;
+        border-radius: 10px 10px 0 0;
+      }
+      &:hover::before {
+        width: 100%;
+      }
+      &::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 0;
+        width: 100%;
+        background-color: #9d9d9d;
+        transition: 0.4s ease;
+        z-index: -1;
+      }
+      &:hover::after {
+        height: 100%;
+        transition-delay: 0.4s;
+        color: #fff2d7;
+        border-radius: 10px 10px 0 0;
+      }
+    }
+    li {
+      background: transparent;
+      border: none;
+      padding: 10px 15px;
+      text-transform: uppercase;
+      position: relative;
+      transition: 0.5s ease;
+      cursor: pointer;
+      a {
+        text-decoration: none;
+        color: #0c2d57;
+        font-size: 16px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        &::before {
+          content: "";
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          height: 2px;
+          width: 0;
+          background-color: #9d9d9d;
+          transition: 0.5s ease;
+        }
+        &:hover {
+          color: #fff2d7;
+          transition-delay: 0.5s;
+          background-color: #9d9d9d;
+          border-radius: 10px 10px 0 0;
+        }
+        &:hover::before {
+          width: 100%;
+        }
+        &::after {
+          content: "";
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          height: 0;
+          width: 100%;
+          background-color: #9d9d9d;
+          transition: 0.4s ease;
+          z-index: -1;
+        }
+        &:hover::after {
+          height: 100%;
+          transition-delay: 0.4s;
+          color: #fff2d7;
+          border-radius: 10px 10px 0 0;
+        }
+      }
+    }
+  }
+}

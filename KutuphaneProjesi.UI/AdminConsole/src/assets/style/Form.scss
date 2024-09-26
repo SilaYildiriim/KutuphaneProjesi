@@ -1,0 +1,71 @@
+.formAddBook {
+  background-color: #e9dac1;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  justify-content: center;
+  align-content: center;
+  border-radius: 10px;
+  padding: 40px 40px 100px 40px;
+  p {
+    margin: 0;
+    padding: 7px;
+  }
+  input {
+    width: 330px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: #fff9ec;
+    margin: 5px 20px 20px 20px;
+    &::placeholder {
+      padding-left: 30px;
+    }
+  }
+  button {
+    position: absolute;
+    border-radius: 10px;
+    border: none;
+    letter-spacing: 1px;
+    padding: 9px;
+    background-color: #79b4b7;
+    color: #0c2d57;
+    bottom: 40px;
+    &:hover {
+      transform: scale(1.03);
+      color: #fff2d7;
+    }
+  }
+  h3 {
+    color: #0c2d57;
+    font-size: larger;
+  }
+}
+
+input[type="file"] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.fileDetails {
+  background-color: #e9dac1;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  justify-content: center;
+  align-content: center;
+  border-radius: 10px;
+  padding: 40px 0px 30px 0px;
+  margin-left: 100px;
+  li {
+    margin: 0;
+    padding: 2px;
+  }
+}
